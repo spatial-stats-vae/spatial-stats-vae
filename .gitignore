@@ -1,0 +1,15 @@
+.venv/
+data/lines/uc?id=1XYYqc9qpGc9fVTGb5cmzp0V2FdbedAVW
+gpu.txt
+test_gpu.py
+.DS_Store
+src/data
+wandb
+src/models/__pycache__/
+src/data/raw
+models/resnetVAE*
+data/*/images
+data/*/2pt_autocorr_images
+data/*/labels.csv
+src/models/test*
+src/models/runs
